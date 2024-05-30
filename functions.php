@@ -177,7 +177,7 @@ print '
   <label for="tab1" >Dashboard</label>
 
   <input type="radio" name="tabset" id="tab2" aria-controls="toggle">
-  <label for="tab2" >CrowsNest Toggle</label>
+  <label for="tab2" >Telescope Toggle</label>
   <!-- Tab 2 -->
   <input type="radio" name="tabset" id="tab3" aria-controls="integrations">
   <label for="tab3" >Integrations</label>

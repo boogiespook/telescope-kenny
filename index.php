@@ -16,7 +16,7 @@ if (isset($_POST['toggle_submit'])) {
       <meta charSet="utf-8"/>
       <meta http-equiv="x-ua-compatible" content="ie=edge"/>
       <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/>
-      <title data-react-helmet="true">CrowsNest Toggle</title>
+      <title data-react-helmet="true">Telescope Toggle</title>
       <link rel="stylesheet" href="css/brands.css" />
       <link rel="stylesheet" href="css/style.css" />
       <link rel="stylesheet" href="css/tabs.css" />
@@ -47,7 +47,7 @@ include 'functions.php';
                   <div class="pf-c-page__header-brand-toggle">
                   </div>
                   <a class="pf-c-page__header-brand-link" href="index.php">
-                  <img class="pf-c-brand" src="images/crowsnest-banner.png" alt="CrowsNest logo" />
+                  <img class="pf-c-brand" src="images/crowsnest-banner.png" alt="Telescope logo" />
                   </a>
                 </div>
 
@@ -148,7 +148,7 @@ print "</div></div></div>";
     <section id="toggle" class="tab-panel">
 
 <form id="toggle" class="pf-c-form" action="updateToggle.php" >
-    <p class="pf-c-title pf-m-3xl">CrowsNest Toggle</p>
+    <p class="pf-c-title pf-m-3xl">Telescope Toggle</p>
     <p>Items in <span class="blue">Blue</span> indicate that an integration is in place for that capability</p>
       <div class="pf-l-gallery pf-m-gutter">
 
